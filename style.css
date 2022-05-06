@@ -1,0 +1,56 @@
+body {
+    background-image: url(./img/kratos.png);
+    color: #fdfdfd;
+}
+
+
+
+.calculator {
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.cabecalho {
+    padding: 30px;
+}
+
+
+.resultado1 {
+    padding: 10px;
+    text-align: right;
+    margin: 20px;
+}
+
+.funct-2 {
+    margin: 18px;
+}
+
+
+.btn-dark {
+    padding: 20px;
+
+}
+
+#igual {
+    background-color: #0d6efd;
+}
+
+.col {
+    text-align: center;
+    font-size: 10px;
+    margin-right: 2px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    cursor: default;
+    background-color: #212529;
+}
+
+.btn:hover {
+    background-color: rgba(161, 159, 159, 0.8);
+}
