@@ -1,5 +1,5 @@
 <h1 align="center">💻 Iago Barbosa</h1>
-<h3 align="center">Calculadora do Windows com histórico aplicado</h3>
+<h3 align="center">Calculadora do Windows em BootStrap com histórico aplicado </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
